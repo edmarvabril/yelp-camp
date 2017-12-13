@@ -1,0 +1,39 @@
+/*body{*/
+/*    background-color: #31572C;*/
+/*}*/
+
+.img-camp{
+    width: 100%;
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+}
+
+.fa-compass{
+    font-size: 1.5em
+}
+
+.card-header+.card-body{
+    padding: 1%;
+}
+
+.darkgreen,.btn-primary{
+    background-color: #31572C;
+    color: white;
+    border-color: #132A13;
+}
+
+.btn-primary:hover{
+    background-color: #4F772D;
+    color: white;
+    border-color: #132A13;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.delete-form{
+    display: inline;
+}

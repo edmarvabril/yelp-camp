@@ -1,0 +1,29 @@
+"Crocodile Lake"
+"image" : "https://farm9.staticflickr.com/8577/16263386718_c019b13f77.jpg"
+
+"Granite Hill"
+"image" : "https://farm1.staticflickr.com/22/31733208_3190a1e982.jpg"
+
+"Mountain Goat's Rest"
+"image" : "https://farm9.staticflickr.com/8572/16034357695_5ca6214f59.jpg"
+
+"Eel Swamp"
+"image" : "https://farm9.staticflickr.com/8367/8522970855_e0a794d78a.jpg"
+
+"Viper Pit"
+"image" : "https://farm2.staticflickr.com/1295/1299998655_b8073091a0.jpg"
+
+"Chimpy Camp"
+"image" : "https://farm3.staticflickr.com/2896/14597697096_820df79a15.jpg"
+
+"Miss Misty"
+"image" : "https://farm6.staticflickr.com/5197/7150626639_aa8d7999c0.jpg"
+description: "Trek into the mysterious mists of this forest."
+
+"Sunny Plains"
+"image" : "https://farm4.staticflickr.com/3662/3626619617_6713a533dc.jpg"
+description: "Catch all the sun's rays in this wide plain."
+
+"Hilltop Fairview"
+"image" : "https://farm3.staticflickr.com/2116/2164766085_0229ac3f08.jpg"
+description: "No prejudice, just a fair view of the hills."
