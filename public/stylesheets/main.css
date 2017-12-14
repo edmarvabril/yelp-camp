@@ -37,3 +37,7 @@
 .delete-form{
     display: inline;
 }
+
+.container{
+    padding-top: 1%;
+}
